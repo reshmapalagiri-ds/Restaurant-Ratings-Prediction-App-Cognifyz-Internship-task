@@ -76,3 +76,9 @@ They are named as:
 - Integrate additional datasets for richer insights  
 
 **“This project demonstrates my ability to independently handle real-world datasets and generate actionable business insights.”**
+
+👤 Author
+Palagiri Reshma
+📧 [reshmapalagiri1807@gmail.com]
+💼 [www.linkedin.com/in/palagiri-reshma]
+🌐 [https://github.com/reshmapalagiri-ds]
