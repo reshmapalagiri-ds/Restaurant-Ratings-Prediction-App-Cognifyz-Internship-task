@@ -61,12 +61,12 @@ Through this project, I strengthened my skills in:
 ## 📸 Project Screenshots
 Some of the visualisations are drawn, go through the notebook 
 They are named as:
-Distribution of aggregate ratings
 
-Vote vs Aggregate Ratings
-Cost for two vs Aggregate Rating
-Count of restaurents by aggregate ratings
-Table booking vs Aggregate Rating.png
+[!Distribution of aggregate ratings](https://github.com/reshmapalagiri-ds/Restaurant-Ratings-Prediction-App-Cognifyz-Internship-task/blob/main/Distribution%20of%20aggregate%20ratings.png?raw=true)
+[!Votes vs Aggregate Ratings](https://github.com/reshmapalagiri-ds/Restaurant-Ratings-Prediction-App-Cognifyz-Internship-task/blob/main/Vote%20vs%20Aggregate%20Ratings.png?raw=true)
+[!Cost for two vs Aggregate Rating](https://github.com/reshmapalagiri-ds/Restaurant-Ratings-Prediction-App-Cognifyz-Internship-task/blob/main/Cost%20for%20two%20vs%20Aggregate%20Rating.png?raw=true)
+[!Count of restaurents by aggregate ratings](https://github.com/reshmapalagiri-ds/Restaurant-Ratings-Prediction-App-Cognifyz-Internship-task/blob/main/Count%20of%20restaurents%20by%20aggregate%20ratings.png?raw=true)
+[!Table booking vs Aggregate Rating.png](https://github.com/reshmapalagiri-ds/Restaurant-Ratings-Prediction-App-Cognifyz-Internship-task/blob/main/Table%20booking%20vs%20Aggregate%20Rating.png?raw=true)
 
 
 
