@@ -79,6 +79,9 @@ They are named as:
 
 👤 Author
 Palagiri Reshma
+
 📧 [reshmapalagiri1807@gmail.com]
+
 💼 [www.linkedin.com/in/palagiri-reshma]
+
 🌐 [https://github.com/reshmapalagiri-ds]
